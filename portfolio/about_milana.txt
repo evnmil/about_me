@@ -1,2 +1,3 @@
 Hello git!
 my name is milana
+Я учусь на разработчика
